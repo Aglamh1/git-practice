@@ -31,7 +31,7 @@ public class googleSearchValidateElements {
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		GoogleHomePage homepage = new GoogleHomePage(driver);
 		//System.out.println(homepage.getClass()); searchBox
-		WebElement findElement(By searchBox);
+		//WebElement findElement(By searchBox);
 		
 	}
 	

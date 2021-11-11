@@ -24,5 +24,6 @@ public class GoogleHomePage {
 	
 	By searchBox = By.name("q");
 	By googleLogo = By.xpath("//img[@alt='Google']");
+	By suerteBoton = By.xpath("//div[@class='FPdoLc lJ9FBc']/center/input[@name='btnI']");
 	
 }
